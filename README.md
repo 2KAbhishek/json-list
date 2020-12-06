@@ -23,13 +23,14 @@ To get json-list, follow these steps:
 ```bash
 git clone https://github.com/2kabhishek/json-list
 cd json-list
+npm install # Installs dependencies
 npm start # Runs live on localhost:3000
 npm test # Runs tests
 ```
 
 ## Using json-list
 
-Compy Components/Counter into your project structure and include this in your jsx
+Copy Components into your project structure and include them in your jsx
 
 ```jsx
 import AllProductsPage from Components/AllProductsPage/AllProductsPage
@@ -42,3 +43,4 @@ import AllProductsPage from Components/AllProductsPage/AllProductsPage
 Hit the :star: button if you found this useful.
 
 ### More Info
+
