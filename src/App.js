@@ -1,4 +1,3 @@
-import "./App.css";
 import AllProductsPage from "./Components/AllProductsPage/AllProductsPage";
 
 function App() {
